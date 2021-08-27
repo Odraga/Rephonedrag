@@ -1,0 +1,5 @@
+C:\Reparacion Telefonos\ReparacionTelefonos.exe
+C:\Reparacion Telefonos\ReparacionTelefonos.dll
+C:\Reparacion Telefonos\ReparacionTelefonos.deps.json
+C:\Reparacion Telefonos\ReparacionTelefonos.runtimeconfig.json
+C:\Reparacion Telefonos\ReparacionTelefonos.pdb
